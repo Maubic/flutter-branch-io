@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_android_lifecycle:
-      git:
+    git:
       url: https://github.com/SvenSchoene/flutter-android-lifecycle-plugin.git
       
 # For information on the generic Dart part of this file, see the
